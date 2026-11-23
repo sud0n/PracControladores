@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "name": "Adobe Photoshop",
+        "version": "2026",
+        "price": 139.99,
+        "key": "PHSP-2026-KEY",
+        "featured": true,
+        "discount": 0.2
+    },
+    {
+        "id": 2,
+        "name": "Adobe Illustrator",
+        "version": "2026",
+        "price": 129.99,
+        "key": "ILST-2026-KEY",
+        "featured": true,
+        "discount": 0.15
+    },
+    {
+        "id": 3,
+        "name": "Adobe Premiere Pro",
+        "version": "2026",
+        "price": 149.99,
+        "key": "PRPR-2026-KEY",
+        "featured": true,
+        "discount": 0.25
+    },
+    {
+        "id": 4,
+        "name": "Adobe After Effects",
+        "version": "2026",
+        "price": 149.99,
+        "key": "AFEF-2026-KEY",
+        "featured": true,
+        "discount": 0.2
+    },
+    {
+        "id": 5,
+        "name": "Microsoft Office",
+        "version": "2024",
+        "price": 99.99,
+        "key": "MSOF-2024-KEY",
+        "featured": false,
+        "discount": 0.1
+    },
+    {
+        "id": 6,
+        "name": "Microsoft Windows",
+        "version": "11",
+        "price": 79.99,
+        "key": "WIN11-KEY",
+        "featured": true,
+        "discount": 0.15
+    },
+    {
+        "id": 7,
+        "name": "Microsoft Visual Studio",
+        "version": "2026",
+        "price": 189.99,
+        "key": "VS26-2026-KEY",
+        "featured": false,
+        "discount": 0.2
+    },
+    {
+        "id": 8,
+        "name": "Microsoft SQL Server",
+        "version": "2025",
+        "price": 249.99,
+        "key": "SQL25-2025-KEY",
+        "featured": false,
+        "discount": 0.1
+    },
+    {
+        "id": 9,
+        "name": "CorelDRAW",
+        "version": "2026",
+        "price": 119.99,
+        "key": "CDRW-2026-KEY",
+        "featured": true,
+        "discount": 0.25
+    },
+    {
+        "id": 10,
+        "name": "Corel Painter",
+        "version": "2026",
+        "price": 89.99,
+        "key": "CPTR-2026-KEY",
+        "featured": false,
+        "discount": 0.15
+    },
+    {
+        "id": 11,
+        "name": "AutoCAD",
+        "version": "2026",
+        "price": 299.99,
+        "key": "ACAD-2026-KEY",
+        "featured": true,
+        "discount": 0.2
+    },
+    {
+        "id": 12,
+        "name": "SketchUp Pro",
+        "version": "2026",
+        "price": 159.99,
+        "key": "SKUP-2026-KEY",
+        "featured": false,
+        "discount": 0.1
+    },
+    {
+        "id": 13,
+        "name": "Final Cut Pro",
+        "version": "11",
+        "price": 299.99,
+        "key": "FCP11-KEY",
+        "featured": true,
+        "discount": 0.15
+    },
+    {
+        "id": 14,
+        "name": "Logic Pro",
+        "version": "11",
+        "price": 199.99,
+        "key": "LOG11-KEY",
+        "featured": false,
+        "discount": 0.1
+    },
+    {
+        "id": 15,
+        "name": "Ableton Live",
+        "version": "12",
+        "price": 249.99,
+        "key": "ABL12-KEY",
+        "featured": true,
+        "discount": 0.2
+    },
+    {
+        "id": 16,
+        "name": "FL Studio",
+        "version": "25",
+        "price": 179.99,
+        "key": "FL25-KEY",
+        "featured": false,
+        "discount": 0.15
+    },
+    {
+        "id": 17,
+        "name": "DaVinci Resolve",
+        "version": "20",
+        "price": 299.99,
+        "key": "DR20-KEY",
+        "featured": true,
+        "discount": 0.25
+    },
+    {
+        "id": 18,
+        "name": "Blender",
+        "version": "4.5",
+        "price": 0.0,
+        "key": "BLND-45-KEY",
+        "featured": false,
+        "discount": 0
+    },
+    {
+        "id": 19,
+        "name": "Cinema 4D",
+        "version": "2026",
+        "price": 349.99,
+        "key": "C4D26-2026-KEY",
+        "featured": true,
+        "discount": 0.2
+    },
+    {
+        "id": 20,
+        "name": "Houdini",
+        "version": "21",
+        "price": 399.99,
+        "key": "HOUD-21-KEY",
+        "featured": false,
+        "discount": 0.1
+    },
+    {
+        "id": 21,
+        "name": "Maya",
+        "version": "2026",
+        "price": 229.99,
+        "key": "MAYA-2026-KEY",
+        "featured": true,
+        "discount": 0.15
+    },
+    {
+        "id": 22,
+        "name": "3ds Max",
+        "version": "2026",
+        "price": 219.99,
+        "key": "3DSM-2026-KEY",
+        "featured": false,
+        "discount": 0.1
+    },
+    {
+        "id": 23,
+        "name": "Unity Pro",
+        "version": "2026",
+        "price": 169.99,
+        "key": "UNITY-2026-KEY",
+        "featured": true,
+        "discount": 0.2
+    },
+    {
+        "id": 24,
+        "name": "Unreal Engine",
+        "version": "5.6",
+        "price": 0.0,
+        "key": "UNRL-56-KEY",
+        "featured": false,
+        "discount": 0
+    },
+    {
+        "id": 25,
+        "name": "JetBrains IntelliJ IDEA",
+        "version": "2026",
+        "price": 119.99,
+        "key": "IDEA-2026-KEY",
+        "featured": true,
+        "discount": 0.15
+    },
+    {
+        "id": 26,
+        "name": "JetBrains PyCharm",
+        "version": "2026",
+        "price": 109.99,
+        "key": "PYCH-2026-KEY",
+        "featured": false,
+        "discount": 0.1
+    },
+    {
+        "id": 27,
+        "name": "JetBrains WebStorm",
+        "version": "2026",
+        "price": 99.99,
+        "key": "WSTR-2026-KEY",
+        "featured": false,
+        "discount": 0.12
+    },
+    {
+        "id": 28,
+        "name": "Sublime Text",
+        "version": "4",
+        "price": 99.0,
+        "key": "SUBT-4-KEY",
+        "featured": false,
+        "discount": 0
+    },
+    {
+        "id": 29,
+        "name": "Nova",
+        "version": "12",
+        "price": 99.99,
+        "key": "NOVA-12-KEY",
+        "featured": false,
+        "discount": 0.1
+    },
+    {
+        "id": 30,
+        "name": "VMware Workstation",
+        "version": "17",
+        "price": 199.99,
+        "key": "VMW17-KEY",
+        "featured": true,
+        "discount": 0.2
+    },
+    {
+        "id": 31,
+        "name": "Parallels Desktop",
+        "version": "21",
+        "price": 129.99,
+        "key": "PAR21-KEY",
+        "featured": false,
+        "discount": 0.15
+    },
+    {
+        "id": 32,
+        "name": "Docker Desktop",
+        "version": "4.46",
+        "price": 79.99,
+        "key": "DCKR-446-KEY",
+        "featured": true,
+        "discount": 0.1
+    },
+    {
+        "id": 33,
+        "name": "NordVPN",
+        "version": "2026",
+        "price": 59.99,
+        "key": "NORD-2026-KEY",
+        "featured": false,
+        "discount": 0.3
+    },
+    {
+        "id": 34,
+        "name": "ExpressVPN",
+        "version": "2026",
+        "price": 69.99,
+        "key": "EXPV-2026-KEY",
+        "featured": false,
+        "discount": 0.25
+    },
+    {
+        "id": 35,
+        "name": "Bitdefender",
+        "version": "2026",
+        "price": 49.99,
+        "key": "BITD-2026-KEY",
+        "featured": true,
+        "discount": 0.2
+    },
+    {
+        "id": 36,
+        "name": "Norton 360",
+        "version": "2026",
+        "price": 54.99,
+        "key": "N360-2026-KEY",
+        "featured": false,
+        "discount": 0.15
+    },
+    {
+        "id": 37,
+        "name": "Malwarebytes",
+        "version": "2026",
+        "price": 44.99,
+        "key": "MLWB-2026-KEY",
+        "featured": false,
+        "discount": 0.1
+    },
+    {
+        "id": 38,
+        "name": "Figma",
+        "version": "2026",
+        "price": 144.0,
+        "key": "FIGM-2026-KEY",
+        "featured": true,
+        "discount": 0.15
+    },
+    {
+        "id": 39,
+        "name": "Notion",
+        "version": "2026",
+        "price": 96.0,
+        "key": "NTN-2026-KEY",
+        "featured": false,
+        "discount": 0.1
+    },
+    {
+        "id": 40,
+        "name": "Slack",
+        "version": "2026",
+        "price": 87.99,
+        "key": "SLCK-2026-KEY",
+        "featured": true,
+        "discount": 0.12
+    }
+]
